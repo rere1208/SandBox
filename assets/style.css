@@ -28,7 +28,7 @@ ul{
 }
 
 .disque{
-    animation: turn 1s  infinite linear;
+    animation: turn 5s  infinite linear;
 }
 
 @keyframes turn {
@@ -46,8 +46,8 @@ ul{
 }
 
 .ff7{
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
     object-fit: cover;
     border-radius: 100%;
     position: absolute;
