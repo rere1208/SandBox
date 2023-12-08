@@ -61,3 +61,7 @@ ul{
     position: relative;
     display: inline-block;
 }
+
+.pause{
+    animation-play-state: paused;
+}
